@@ -1,8 +1,16 @@
+---
+title: 'Sendbot - Crie chatbots a baixo custo'
+summary: 'o Sendbot oferece uma experiência de atendimento ao cliente automatizada, eficiente e altamente escalável'
+keywords: 'sendbot, typebot, manychat, botconversa, chatbot'
+publishedAt: '2024-05-31'
+author: 'Elton Ciatto'
+---
+
 # Bem-vindo ao Sendbot
 
 ## Sua Solução Definitiva de Chatbot
 
-O Sendbot é uma plataforma inovadora projetada para revolucionar a maneira como as empresas interagem com seus clientes. Utilizando a mais recente tecnologia em inteligência artificial, o Sendbot oferece uma experiência de atendimento ao cliente automatizada, eficiente e altamente escalável.
+O Sendbot é uma plataforma inovadora projetada para revolucionar a maneira como as empresas interagem com seus clientes. Utilizando a mais recente tecnologia em, o Sendbot oferece uma experiência de atendimento ao cliente automatizada, eficiente e altamente escalável.
 
 ### Por que Escolher o Sendbot?
 
