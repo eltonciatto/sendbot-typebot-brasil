@@ -10,7 +10,7 @@ author: 'Elton Ciatto'
 
 ## Sua Solução Definitiva de Chatbot
 
-O Sendbot é uma plataforma inovadora projetada para revolucionar a maneira como as empresas interagem com seus clientes. Utilizando a mais recente tecnologia em, o Sendbot oferece uma experiência de atendimento ao cliente automatizada, eficiente e altamente escalável.
+O [Sendbot](https://sendbot.co) é uma plataforma inovadora projetada para revolucionar a maneira como as empresas interagem com seus clientes. Utilizando a mais recente tecnologia em, o Sendbot oferece uma experiência de atendimento ao cliente automatizada, eficiente e altamente escalável.
 
 ### Por que Escolher o Sendbot?
 
@@ -28,7 +28,7 @@ O Sendbot é uma plataforma inovadora projetada para revolucionar a maneira como
 
 ## Planos e Preços
 
-Oferecemos uma variedade de planos para atender às necessidades de todos os tamanhos de empresas:
+O [Sendbot](https://sendbot.co) oferece uma variedade de planos para atender às necessidades de todos os tamanhos do seu negócio ou empresas:
 
 - **Plano Starter**: Ideal para pequenas empresas que estão começando a explorar o poder dos chatbots.
 - **Plano Pro**: Perfeito para empresas que precisam de mais personalização e integrações avançadas.
@@ -47,7 +47,7 @@ Começar com o Sendbot é fácil. Siga nosso guia passo a passo para configurar 
 
 ## Contribuindo para o Sendbot
 
-Este repositório é um espaço colaborativo para compartilhar recursos, exemplos e dicas para maximizar sua experiência com o Sendbot. Se você tem algo incrível para contribuir, veja nosso guia de contribuição e faça parte da nossa comunidade.
+Este repositório é um espaço colaborativo para compartilhar recursos, exemplos e dicas para maximizar sua experiência com o [Sendbot](https://sendbot.co). Se você tem algo incrível para contribuir, veja nosso guia de contribuição e faça parte da nossa comunidade.
 
 ## Suporte
 
